@@ -1,5 +1,3 @@
-[![](http://inspace.io/github-cover.jpg)](http://inspace.io)
-
 UIAlertController-MZStyle
 ===========
 
@@ -9,6 +7,11 @@ UIAlertController-MZStyle
 [![](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/2_a.jpg)](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/2_a.png)
 [![](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/3_a.jpg)](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/3_a.png)
 [![](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/4_a.jpg)](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/4_a.png)
+
+[![](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/1_b.jpg)](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/1_b.png)
+[![](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/2_b.jpg)](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/2_b.png)
+[![](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/3_b.jpg)](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/3_b.png)
+[![](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/4_b.jpg)](https://raw.github.com/m1entus/UIAlertController-MZStyle/master/Screens/4_b.png)
 
 # Known Issues
 
