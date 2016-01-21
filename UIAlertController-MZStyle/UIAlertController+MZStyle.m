@@ -170,7 +170,7 @@ static NSMutableSet <Class> *instanceOfClassesSet = nil;
         } else if ([subview respondsToSelector:@selector(action)]) {
             UIAlertAction *action = [subview valueForKey:@"action"];
             [subview enumerateAllSubviewsUsingBlock:^(__kindof UILabel *label) {
-                if ([label isKindOfClass:[UILabel class]]) {
+                if ([label isKindOfClass:[UILabel class]] && ![action isKindOfClass:[NSNumber class]]) {
                     MZLabel *newLabel = [self labelFromLabelAttributes:label];
                     newLabel.text = action.title;
                     newLabel.textColor = [self colorForActionStyle:action.style];
