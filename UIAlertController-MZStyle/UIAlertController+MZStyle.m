@@ -234,7 +234,6 @@ static NSMutableSet <Class> *instanceOfClassesSet = nil;
             if ([label.text isEqualToString:self.title] || [label.text isEqualToString:self.message]) {
                 
                 UILabel *newLabel = [self labelFromLabelAttributes:label];
-                newLabel.textColor = [UIColor whiteColor];
                 
                 [label.superview addSubview:newLabel];
                 
